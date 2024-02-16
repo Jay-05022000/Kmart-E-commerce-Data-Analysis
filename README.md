@@ -1,4 +1,4 @@
-                                                Kmart E-Commerce Data Analysis
+                                                  Kmart E-Commerce Data Analysis
 
 
 
@@ -106,18 +106,8 @@ INSIGHTS:
 
 VISUALIZATIONS:
 
-Following are just the glimps of dashboard.
+Interactive Dashboard :
 
-Sales by time :
+Interactive Dashboard can be found here : https://github.com/Jay-05022000/Kmart-E-commerce-Data-Analysis/blob/master/K-mart-powerBi-visualizations.pbix
 
-![image](https://github.com/Jay-05022000/Kmart-E-commerce-Data-Analysis/assets/110780565/0eb1e26b-01b3-44b7-a22b-f80203c6a091)
-
-
-Sales by demographics : 
-
-![image](https://github.com/Jay-05022000/Kmart-E-commerce-Data-Analysis/assets/110780565/3cc0b818-8b38-4564-b742-2d0efdf3aeb9)
-
-
-Sales by Products : 
-
-![image](https://github.com/Jay-05022000/Kmart-E-commerce-Data-Analysis/assets/110780565/bb6caa6c-b5c2-45b7-8297-d64fce737f32)
+ 
