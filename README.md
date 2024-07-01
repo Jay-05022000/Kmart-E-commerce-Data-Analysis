@@ -108,6 +108,12 @@ INSIGHTS:
 
 VISUALIZATIONS:
 
+![image](https://github.com/Jay-05022000/Kmart-E-commerce-Data-Analysis/assets/110780565/f600598a-0eb8-4849-9398-e348c618b5cf)
+
+![image](https://github.com/Jay-05022000/Kmart-E-commerce-Data-Analysis/assets/110780565/722cfdcd-6807-4de3-8e11-38e917452295)
+
+![image](https://github.com/Jay-05022000/Kmart-E-commerce-Data-Analysis/assets/110780565/8be4cf70-dbd0-4cce-9806-e5825636a0f9)
+
 Interactive Dashboard :
 
 Interactive Dashboard can be found here : https://github.com/Jay-05022000/Kmart-E-commerce-Data-Analysis/blob/master/K-mart-powerBi-visualizations.pbix
